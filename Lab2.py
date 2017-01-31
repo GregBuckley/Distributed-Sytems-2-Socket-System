@@ -6,6 +6,8 @@ thread_pool = []
 STUDENT_ID = "133252220"
 ip_address = "10.62.0.148"
 SOCKET_LIST = []
+ALL_ACTIVE_SOCKETS=[]
+
 
 def respond(client_sock, portnum):
         alive =True
